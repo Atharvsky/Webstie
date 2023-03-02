@@ -158,7 +158,6 @@
       <form>
         <label>Email: <input type="text" name="email"></label><br>
         <label> Mobile: <input type="text" name="mobile"> </label><br>
-        <textarea name="comments" rows="4">Enter your message</textarea><br>
         <input type="submit" value="Submit" /><br>
       </form>
     </main>
