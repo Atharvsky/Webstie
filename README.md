@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mr. Camel</title>
+  <title>Mr. Atharva</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
@@ -128,13 +128,13 @@
         <li><a href="#about">About</a></li>
       </ul>
       <br><br>
-      <p>"Do something important in life. I convert green grass to code."<br>- Mr Camel</p>
+      <p>"Do something important in life. I convert green grass to code."<br>- Mr Atharva</p>
     </aside>
     <main class="content">
       <h2>About Me</h2>
-      <p>I don't look like some handsome horse, but I am a real desert king. I can survive days without water.</p>
+      <p>"I don't look like some handsome horse, but I am a real desert king. I can survive days without water" -Haha a joke.</p>
       <h2>My Career</h2>
-      <p>I work as a web developer for a company that makes websites for camel businesses.</p>
+      <p>I work as a web developer for a company that makes websites.</p>
       <hr><br>
       <h2>How Can I Help You?</h2>
       <table>
@@ -149,9 +149,9 @@
           <td><i class="fas fa-trailer"></i></td>
         </tr>
         <tr>
-          <td>Cleaning kaktus in your backyard</td>
-          <td>Storing some fat for you</td>
-          <td>Taking you through the desert</td>
+          <td>Can develop codes</td>
+          <td>Full stack developer</td>
+          <td>Creating a website</td>
         </tr>
         <tr>
       </table>
@@ -162,7 +162,6 @@
         <input type="submit" value="Submit" /><br>
       </form>
     </main>
-    <footer class="footer">&copy; Copyright Mr. Camel</footer>
   </div>
 </body>
 
